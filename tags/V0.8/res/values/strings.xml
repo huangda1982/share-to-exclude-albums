@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Share to exclude albums</string>
+    <string name="strNoMediaFile">.nomedia</string>
+    <string name="title_activity_main">Share to exclude albums</string>
+    <string name="strCreateFailed">Failed to create file "%s".</string>
+    <string name="strGetPathFailed">Failed to get album folder path(s).</string>
+    <string name="strBtnOK">OK</string>
+    <string name="strBtnCancle">Cancle</string>
+    <string name="strExclude">Check the albums to exclude.</string>
+</resources>
