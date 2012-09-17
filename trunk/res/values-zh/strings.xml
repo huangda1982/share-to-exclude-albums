@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">开除相册</string>
+    <string name="strNoMediaFile">.nomedia</string>
+    <string name="title_activity_main">开除相册</string>
+    <string name="strCreateFailed">未能创建文件“%s”。</string>
+    <string name="strGetPathFailed">未能取得相册的保存位置，所选的相册可能不是本地相册。</string>
+    <string name="strBtnOK">确定</string>
+    <string name="strBtnCancle">取消</string>
+    <string name="strExclude">请勾选要开除的相册。</string>
+</resources>
